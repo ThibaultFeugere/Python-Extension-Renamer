@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 
 path = input("Dans quel path executer le code ?\n")
