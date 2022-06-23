@@ -1,3 +1,3 @@
 # Python Extension Renamer
 
-Script Python permettant de changer les extensions de tous les fichiers d'un ou plusieurs dossiers
+Python script that allows us to change extensions of all files in one or more folders.
